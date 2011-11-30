@@ -1,9 +1,8 @@
 # Usage
-<code>
-$('#elements').rememberScroll({debug: true});
-$.rememberScroll.clear(); // cleans everything stored by the plugin
-$.rememberScroll.detach($('#elements')); // unbinds from the given elements
-</code>
+
+    $('#elements').rememberScroll({debug: true});
+    $.rememberScroll.clear(); // cleans everything stored by the plugin
+    $.rememberScroll.detach($('#elements')); // unbinds from the given elements
 
 ## Options
 
